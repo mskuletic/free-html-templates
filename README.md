@@ -20,7 +20,9 @@ Repository link : https://github.com/mskuletic/Restaurant_template
 
 4. Landing Page (HTML/CSS, Bootstrap 4.4, JavaScript)
 
-https://free-landing-page.netlify.app/
+Demo link : https://free-landing-page.netlify.app/
+
+Repository link : https://github.com/mskuletic/Product_landing_page
 
 
 Enjoy!
