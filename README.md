@@ -24,12 +24,6 @@ Demo link : https://free-landing-page.netlify.app/
 
 Repository link : https://github.com/mskuletic/Product_landing_page
 
-5. Boutique travel agency template (HTML/CSS,Bootstrap 4.4)
-
-Demo link: https://boutique-travel-agency-template.netlify.app/
-
-Repository link: https://github.com/mskuletic/Boutique_travel_agency_template
-
 5. Apartment Template (HTML/CSS,Bootstrap 4.4)
 
 Demo link: https://free-apartment-template.netlify.app/
